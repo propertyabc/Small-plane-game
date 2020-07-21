@@ -1,4 +1,4 @@
-package com.tarena.fly;
+package com.zerohi.fly;
 
 /**
  * 子弹类:是飞行物

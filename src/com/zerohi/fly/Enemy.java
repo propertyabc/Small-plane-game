@@ -1,4 +1,4 @@
-package com.tarena.fly;
+package com.zerohi.fly;
 
 /**
  * 敌人，可以有分数
